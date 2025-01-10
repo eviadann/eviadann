@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![EviAdann's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=EviAdann&theme=dark)](https://github.com/EviAdann/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/EviAdann?theme=dark&font=Black%20Han%20Sans&ext=heatmap)
 <!--
 **eviadann/eviadann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
